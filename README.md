@@ -48,7 +48,7 @@ WalletWise是一款简洁高效的移动记账应用，帮助用户轻松管理�
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/walletwise.git
+git clone https://github.com/agions/walletwise.git
 cd walletwise
 ```
 
