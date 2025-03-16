@@ -1,7 +1,6 @@
 {
-  "name": "qingsongji",
-  "version": "1.0.0",
-  "description": "轻松记 - 简约易用的记账小程序",
+  "name": "my-app",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "npm run dev:h5",
