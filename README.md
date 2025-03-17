@@ -2,7 +2,6 @@
 
 WalletWise是一款简洁高效的移动记账应用，帮助用户轻松管理个人财务、跟踪收支、分析消费习惯并实现预算目标。
 
-![WalletWise Logo](./static/logo.png)
 
 ## 📱 应用功能
 
